@@ -1,4 +1,4 @@
-# restapi-keycloak
+# REST API & Keycloak
 
 This is a demo project of REST API secured with Keycloak. Keycloak is an open source identity provider and access management.
 
